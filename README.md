@@ -113,7 +113,11 @@
       Git · GitHub · Swagger · Figma
     </td>
   </tr>
-</table>thub-readme-stats.vercel.app/api/top-langs/?username=Clumsy33-ES&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</table>
+
+---
+
+## 📫 Contact Me
 ---
 
 ## 📫 Contact Me
