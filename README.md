@@ -79,7 +79,7 @@
 ## 🌍 Languages
 
 - Turkish — Native
-- English — Intermediate / B1–B2
+- English — Intermediate / B2–C1
 
 ---
 
