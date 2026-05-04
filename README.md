@@ -82,14 +82,38 @@
 - English — Intermediate / B2–C1
 
 ---
+## 📊 Tech Focus
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Clumsy33-ES&show_icons=true&theme=tokyonight&hide_border=true" alt="Elif GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clumsy33-ES&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<table>
+  <tr>
+    <td align="center">
+      <strong>Backend</strong><br/>
+      FastAPI · Flask · REST API · SQLAlchemy
+    </td>
+    <td align="center">
+      <strong>Mobile</strong><br/>
+      Flutter · Dart · Mobile UI
+    </td>
+    <td align="center">
+      <strong>Game Development</strong><br/>
+      Unity · C# · 2D Mechanics
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Database</strong><br/>
+      PostgreSQL · MongoDB · SQL Server
+    </td>
+    <td align="center">
+      <strong>AI & NLP</strong><br/>
+      Sentiment Analysis · VADER
+    </td>
+    <td align="center">
+      <strong>Tools</strong><br/>
+      Git · GitHub · Swagger · Figma
+    </td>
+  </tr>
+</table>thub-readme-stats.vercel.app/api/top-langs/?username=Clumsy33-ES&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 ---
 
 ## 📫 Contact Me
