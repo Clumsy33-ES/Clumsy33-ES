@@ -85,10 +85,11 @@
 
 ## 📊 GitHub Stats
 
-![Elif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clumsy33-ES&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Clumsy33-ES&show_icons=true&theme=tokyonight&hide_border=true" alt="Elif GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Clumsy33-ES&layout=compact&theme=tokyonight)
+<br/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clumsy33-ES&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 ---
 
 ## 📫 Contact Me
